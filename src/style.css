@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+:root {
+  --Linear-gradient:hsl(249, 99%, 64%) to hsl(278, 94%, 30%);
+  --Red : hsl(0, 100%, 66%);
+  --White: hsl(0, 0%, 100%);
+  --Light-grayish-violet: hsl(270, 3%, 87%);
+  --Dark-grayish-violet: hsl(279, 6%, 55%);
+  --Very-dark-violet: hsl(278, 68%, 11%);
+  
+}
+@media only screen and (max-width: 399px) {
+  body>*{
+    font-size: 12px;
+    letter-spacing: 2px;
+}}
+@media only screen and (min-width: 400px) {
+  body>*{
+    font-size: 17px;
+    letter-spacing: 2px;
+  }}
+body>*{
+  font-family: 'Space Grotesk', sans-serif;
+
+}
+
+
+#app {
+  margin: 0 0;
+  text-align: center;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}
