@@ -33,7 +33,7 @@ Desktop View
 ![Desktop View](./Screenshots/desktop.png)
 
 Mobile View
-![Mobile View](./Screenshots/Mobile.png)
+![Mobile View](./Screenshots/mobile.png)
 
 
 
@@ -41,8 +41,8 @@ Mobile View
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/salahudheen007/notifications-page-main)
-- Live Site URL: [live url](https://salahudheen007.github.io/notifications-page-main/)
+- Solution URL: [GitHub](https://github.com/salahudheen007/interactive-card-details-form-main)
+- Live Site URL: [live url](https://6336fb4209b07807628c13ea--astounding-quokka-0985d4.netlify.app/)
 
 ## My process
 
